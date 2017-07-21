@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>All About Me</title>
+</head>
+<body>
+
+<h1>Likes:</h1>
+<p>Dance
+Purple
+Gumbo/ Seafood</p1>
+
+<h2>Dislikes:</h2>
+<p>Country music
+Green
+Vegtables</p>
